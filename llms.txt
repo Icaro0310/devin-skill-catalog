@@ -22,4 +22,4 @@
 - Not when: you want security guarantees (heuristic gates are evidence, not proof); you want the tool to modify `.devin/` (deliberately read-only there); you want rubric evals executed (that is devin-evals' job).
 
 ## Related
-- [devin-ecosystem](https://icaro0310.github.io/): the 20+ tool ecosystem this belongs to
+- [devin-ecosystem](https://icaro0310.github.io/): the tool ecosystem this belongs to
