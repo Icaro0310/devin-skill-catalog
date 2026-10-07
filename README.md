@@ -61,12 +61,16 @@ content.
 
 Python ≥ 3.10 and `pipx` are required. Stdlib only — no dependencies.
 
-```bash
-pipx install "devin-skill-catalog @ git+https://github.com/Icaro0310/devin-skill-catalog.git"
-```
-
-(Not published on PyPI yet; the GitHub install above is the supported
-route.)
+<!-- DIST-STATUS:BEGIN — generated from devin-powerups/registry.json -->
+> **Source-only distribution.** This tool is not yet published to PyPI.
+> Install from source:
+>
+> ```bash
+> pipx install git+https://github.com/Icaro0310/devin-skill-catalog.git
+> # or
+> uv tool install git+https://github.com/Icaro0310/devin-skill-catalog.git
+> ```
+<!-- DIST-STATUS:END -->
 
 ## Commands
 
