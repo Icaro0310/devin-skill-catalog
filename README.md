@@ -59,7 +59,7 @@ content.
 
 ## Install
 
-Python ≥ 3.10 and `pipx` are required. Stdlib only — no dependencies.
+Requires Python ≥ 3.10 and `pipx` or `uv`. Stdlib only — no dependencies.
 
 <!-- DIST-STATUS:BEGIN — generated from devin-powerups/registry.json -->
 > **Source-only distribution.** This tool is not yet published to PyPI.
