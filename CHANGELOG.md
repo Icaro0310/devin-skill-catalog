@@ -19,6 +19,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   `g3: "not-measured"`. The report's `candidate.sha256` is checked
   against the stored copy as a warn-only advisory.
 
+### Changed
+
+- `llms.txt` no longer states a hard-coded ecosystem size; the registry owns the count.
+
 ## [0.1.0] - 2026-10-04
 
 ### Added
