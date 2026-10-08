@@ -11,6 +11,14 @@
 <a href="https://github.com/Icaro0310/devin-skill-catalog/issues"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs welcome"/></a>
 </div>
 
+<!-- DEVIN-ECO:BEGIN -->
+> **Part of the [DEVIN ecosystem](https://github.com/Icaro0310/awesome-devin)**
+> Track: Build · Nature: product
+> For: maintainers, AI engineers
+> Interface: CLI / registry
+<!-- DEVIN-ECO:END -->
+
+
 # devin-skill-catalog
 
 > **Unofficial community project.** Not affiliated with, endorsed by, or
