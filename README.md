@@ -12,9 +12,9 @@
 </div>
 
 <!-- DEVIN-ECO:BEGIN -->
-> **Part of the [DEVIN ecosystem](https://github.com/Icaro0310/awesome-devin)**
-> Track: Build · Nature: product
-> For: maintainers, AI engineers
+> **Part of the [DEVIN ecosystem](https://github.com/Icaro0310/awesome-devin)**  
+> Track: Build · Nature: product  
+> For: maintainers, AI engineers  
 > Interface: CLI / registry
 <!-- DEVIN-ECO:END -->
 

@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- README gains the generated `Part of the DEVIN ecosystem` block
+  (track/nature/audience/interface rendered from the registry).
+
 - G3 promotion gate: `promote --g3-report PATH` consumes a
   `g3-report/0.1` JSON verdict (`improves` / `no-detectable-effect` /
   `regresses` / `inconclusive`). Always-on rules (`.devin/rules`)
