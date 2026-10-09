@@ -1,3 +1,7 @@
+> **MOVED** — this repository was absorbed into the [`devin-devkit`](https://github.com/Icaro0310/devin-devkit) monorepo.
+> Development continues at [`packages/skill-catalog`](https://github.com/Icaro0310/devin-devkit/tree/main/packages/skill-catalog). The `devin-skill-catalog` package name and CLI are unchanged.
+> This repo is archived and kept for history. Please open issues and PRs in `devin-devkit`.
+
 <div align="center">
 
 <a href="https://github.com/Icaro0310/devin-skill-catalog/actions/workflows/ci.yml"><img src="https://github.com/Icaro0310/devin-skill-catalog/actions/workflows/ci.yml/badge.svg" alt="ci"/></a>
